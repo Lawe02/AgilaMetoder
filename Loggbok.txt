@@ -1,0 +1,11 @@
+2024-02-03 | Har hittat en email-skickar tjänst som ska leverera det nya lösenordet samt kunnat skicka några testmail från applikationen. Detta är en del av user storyn Slide-6 Login. 
+
+2024-02-04 | Nu så skickas ett nytt lösenord till användaren som glömt lösenordet, använt userManagern för att updatera användarens lösenord till det som skickas till e-posten . Detta är en del av user storyn Slide-6 Login.
+
+2024-02-06 | Gjort klart unit-testing med mock för att skicka e-post . Detta är en del av user storyn Slide-6 Login. 
+
+2024-02-14 | Gjort klart en repository samt service som hanterar Identity-databasen. Detta är en del av user storyn Slide-8 Login. 
+
+2024-02-14 | Färdig med att uppdatera lösenordet, stötte på några hinder med dependency injection till updatePassword.cs men inget mer med det. Detta är en del av user storyn Slide-8 Login. 
+
+2024-02-14 | Gjort färdigt ett unit test med mock. Strulade lite med att mocka userrepot men gick annars utan problem. Detta är en del av user storyn Slide-8 Login. 
